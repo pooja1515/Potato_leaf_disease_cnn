@@ -1,1 +1,1 @@
-# Potato_leaf_disease_cnn
+# Potato Leaf Diesese Using Simple CNN
